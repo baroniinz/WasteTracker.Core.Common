@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using WasteTracker.Data.Core.Models;
 using WasteTracker.Data.Core.Repositories;
-
+//test
 namespace WasteTracker.Core.Common.Classes 
 {
     //logging 
