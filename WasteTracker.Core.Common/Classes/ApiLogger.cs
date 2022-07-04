@@ -2,7 +2,7 @@
 using WasteTracker.Data.Core.Models;
 using WasteTracker.Data.Core.Repositories;
 
-namespace WasteTracker.Core.Common.Classes
+namespace WasteTracker.Core.Common.Classes 
 {
     //logging 
     public class ApiLogger : IApiLogger
