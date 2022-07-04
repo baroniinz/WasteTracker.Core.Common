@@ -1,6 +1,6 @@
 ﻿namespace WasteTracker.Core.Common.Models
 {
-    public class DatabaseAppSettings
+    public class DatabaseAppSettings 
     {
         public string DBDatabaseNameProduction { get; set; }
         public string DBServerProduction { get; set; }

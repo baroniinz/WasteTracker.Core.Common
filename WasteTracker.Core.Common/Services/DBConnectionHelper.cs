@@ -3,7 +3,7 @@ using WasteTracker.Core.Common.Models;
 //db connection
 namespace WasteTracker.Core.Common.Services
 {
-    public static class DBConnectionHelper
+    public static class DBConnectionHelper 
     {
         public static string ConnectionString(DatabaseAppSettings appSettings)
         {

@@ -4,7 +4,7 @@ using WasteTracker.Data.Core.Repositories;
 
 namespace WasteTracker.Core.Common.Classes
 {
-    //logging
+    //logging 
     public class ApiLogger : IApiLogger
     {
         private readonly ILoggingRepository _log;

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Security.Cryptography;
-using System.Text;
+using System.Text; 
 
 namespace WasteTracker.Core.Common.Services
 {

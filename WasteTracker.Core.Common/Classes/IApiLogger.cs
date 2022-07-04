@@ -2,7 +2,7 @@
 
 namespace WasteTracker.Core.Common.Classes
 {
-    public interface IApiLogger
+    public interface IApiLogger 
     {
         void SaveLog(string system, string webReference);
         void SaveLog(string system, string webReference, string process);
